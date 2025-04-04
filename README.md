@@ -7,7 +7,7 @@ El objetivo es repetir correctamente la secuencia de colores generada por la com
 ---
 ## 📸 Vista Previa
 
-![Vista previa del juego](./images/preview.PNG)
+<img src="./images/preview.PNG" width="300" align="center"></img>
 ---
 ## 🎮 Cómo Jugar
 
