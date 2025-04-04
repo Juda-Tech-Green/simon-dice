@@ -17,7 +17,7 @@ El objetivo es repetir correctamente la secuencia de colores generada por la com
 4. Si te equivocas, el juego termina y puedes volver a empezar.
 ---
 ## 🌐 Demo
-Juega aquí: 
+Juega aquí: https://juda-tech-green.github.io/simon-dice/
 ---
 
 ## 🧠 Lógica del Juego
@@ -62,6 +62,6 @@ Además, quería desarrollar algo visual y dinámico que me motivara a seguir ap
 
 ## 📜 Licencia
 MIT © [JuDa](https://github.com/Juda-Tech-Green)
-Heco con 💚 & JavaScript
+Hecho con 💚 & JavaScript
 
 ![Pro environmentalist badge](https://img.shields.io/badge/dev-environmentalist-green)

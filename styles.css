@@ -26,7 +26,11 @@ body {
   border: 10px solid black;
   border-radius: 20%;
 }
-
+footer{
+  font-family: 'Press Start 2P', cursive;
+  margin:  5%;
+  color: #FEF2BF;
+}
 .game-over {
   background-color: red;
   opacity: 0.8;
