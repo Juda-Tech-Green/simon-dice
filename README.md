@@ -5,7 +5,10 @@ El objetivo es repetir correctamente la secuencia de colores generada por la com
 ¡Cada ronda aumenta la dificultad!
 
 ---
+## 📸 Vista Previa
 
+![Vista previa del juego](./images/preview.PNG)
+---
 ## 🎮 Cómo Jugar
 
 1. Presiona cualquier tecla para comenzar el juego.
@@ -33,20 +36,12 @@ El objetivo es repetir correctamente la secuencia de colores generada por la com
 
 ---
 
----
-
-## 📸 Vista Previa
-
-![Vista previa del juego](./images/preview.PNG)
-
----
-
 ## 🛠️ Instalación Local
 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Juda-Tech-Green/simon-dice
-   cd Simon-Dice
+   cd simon-dice
     ```
 ## 🎯 ¿Por qué hice esta app?
 Creé esta versión del juego Simón Dice como una forma divertida de poner en práctica conceptos clave de JavaScript como:
