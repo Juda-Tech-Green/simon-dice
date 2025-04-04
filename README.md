@@ -15,7 +15,9 @@ El objetivo es repetir correctamente la secuencia de colores generada por la com
 2. Observa la secuencia de colores (se encenderán uno por uno).
 3. Haz clic en los botones de colores para repetir la secuencia.
 4. Si te equivocas, el juego termina y puedes volver a empezar.
-
+---
+## 🌐 Demo
+Juega aquí: 
 ---
 
 ## 🧠 Lógica del Juego
